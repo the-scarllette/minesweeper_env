@@ -1,1 +1,2 @@
-# Reinfircement Learning Environment for the Minesweeper game
+
+Reinfircement Learning Environment for the Minesweeper game
